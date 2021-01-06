@@ -1,0 +1,7 @@
+C:\Users\palak arora\source\repos\Palak_Arora_COMP212_Sec005_Lab03\Palak_Arora_Exercise05\bin\Debug\Palak_Arora_Exercise05.exe.config
+C:\Users\palak arora\source\repos\Palak_Arora_COMP212_Sec005_Lab03\Palak_Arora_Exercise05\bin\Debug\Palak_Arora_Exercise05.exe
+C:\Users\palak arora\source\repos\Palak_Arora_COMP212_Sec005_Lab03\Palak_Arora_Exercise05\bin\Debug\Palak_Arora_Exercise05.pdb
+C:\Users\palak arora\source\repos\Palak_Arora_COMP212_Sec005_Lab03\Palak_Arora_Exercise05\obj\Debug\Palak_Arora_Exercise05.csprojAssemblyReference.cache
+C:\Users\palak arora\source\repos\Palak_Arora_COMP212_Sec005_Lab03\Palak_Arora_Exercise05\obj\Debug\Palak_Arora_Exercise05.csproj.CoreCompileInputs.cache
+C:\Users\palak arora\source\repos\Palak_Arora_COMP212_Sec005_Lab03\Palak_Arora_Exercise05\obj\Debug\Palak_Arora_Exercise05.exe
+C:\Users\palak arora\source\repos\Palak_Arora_COMP212_Sec005_Lab03\Palak_Arora_Exercise05\obj\Debug\Palak_Arora_Exercise05.pdb
